@@ -8,7 +8,7 @@ def readme():
 
 setup(
     name="blacksheep-messages",
-    version="1.0.0",
+    version="1.0.1",
     description="Extension for BlackSheep that similiar with flask flashes messages",
     long_description=readme(),
     long_description_content_type="text/markdown",
