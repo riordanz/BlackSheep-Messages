@@ -2,7 +2,7 @@
 Extension for [BlackSheep](https://github.com/Neoteroi/BlackSheep) that similar with flask flashes message
 
 ```bash
-pip install blacksheep-sqlalchemy
+pip install blacksheep-messages
 ```
 
 ## How to use (BlackSheep MVC)
