@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BlackSheep-Messages
 Extension for [BlackSheep](https://github.com/Neoteroi/BlackSheep) that similar with flask flashes message
 
