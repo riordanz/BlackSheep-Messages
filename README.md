@@ -60,7 +60,3 @@ Than you can get message using `bs_message(category)` on jinja2 template
 ```
 
 Note : set check value to True to avoid message deleted automatically.
-=======
-# BlackSheep-Messages
-Extension for BlackSheep that similiar with flask flashes messages
->>>>>>> d6ed37df41252e9d131920da2f3b133417ae4f76
